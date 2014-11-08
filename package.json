@@ -1,0 +1,31 @@
+{
+  "name": "simpledocs-standalone",
+  "version": "0.0.8",
+  "private": false,
+  "description": "simple documentation site using Keystone UI; built with ReactJS",
+  "main": "./standalone.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "connect-mongo": "^0.4.1",
+    "dotenv": "~0.0.3",
+    "express": "3.3.x",
+    "hat": "",
+    "jade": "1.5.x",
+    "keystone": "0.2.x",
+    "mongoose": "3.8.x",
+    "sanitizer": "",
+    "snowpi-greeter": "0.1.x",
+    "simpledocs": "0.0.x"
+  },
+  "engines": {
+    "node": ">=0.10.22",
+    "npm": ">=1.3.14"
+  },
+  "author": {
+    "name": "snowkeeper"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
